@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so   
+
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+.env
+pip-selfcheck.json
+.DS_Store
+
+# Sublime
+*.sublime-*
+
+# VScode
+.vscode
+
+#pycham
+.idea
+
+*.json
+
+.pytest_cache/
+
+custom_config.py
+
+*.log
+
+.coverage
+
+share
+
+*.orig
